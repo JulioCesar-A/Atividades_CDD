@@ -1,4 +1,4 @@
-### Principais Atividades Python:
+# Principais Atividades Python:
 
 - Noções Básicas;
 - Listas;
